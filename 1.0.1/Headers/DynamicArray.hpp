@@ -10,7 +10,7 @@
 
 #ifndef DynamicArrayDefined
     #define DynamicArrayDefined
-    #include "FixedArray.h"
+    #include "FixedArray.hpp"
     #include "../Libs/Headers/Object.hpp"
     
     using namespace Org::Gius::Types;
