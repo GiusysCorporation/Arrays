@@ -1,3 +1,0 @@
-Changes In Version 1.1.1:
-- Added the heading to each file in the project.
-- Code refactoring.
