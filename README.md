@@ -6,7 +6,7 @@ It has a class for representing the arrays with a fixed length and arrays with a
 
 **Requirements:**
 
-* Gius' Types (v2.1.1 or major).
+* Gius' Types (v2.2.0 or major).
 
 *N.B.: Here are indexed the requirements for the last release.*
 
