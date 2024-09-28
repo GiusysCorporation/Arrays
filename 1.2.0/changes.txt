@@ -1,0 +1,5 @@
+Changes In Version 1.2.0:
+- Fixed a DynamicArray class' vulnerability and improved code style.
+- Improved the workplace's scripts.
+- Modified 'Demo.cpp'.
+- Updated to standard internal project's files.
